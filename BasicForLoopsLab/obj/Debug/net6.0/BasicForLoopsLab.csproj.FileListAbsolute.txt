@@ -1,0 +1,15 @@
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\bin\Debug\net6.0\BasicForLoopsLab.exe
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\bin\Debug\net6.0\BasicForLoopsLab.deps.json
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\bin\Debug\net6.0\BasicForLoopsLab.runtimeconfig.json
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\bin\Debug\net6.0\BasicForLoopsLab.dll
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\bin\Debug\net6.0\BasicForLoopsLab.pdb
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\obj\Debug\net6.0\BasicForLoopsLab.csproj.AssemblyReference.cache
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\obj\Debug\net6.0\BasicForLoopsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\obj\Debug\net6.0\BasicForLoopsLab.AssemblyInfoInputs.cache
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\obj\Debug\net6.0\BasicForLoopsLab.AssemblyInfo.cs
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\obj\Debug\net6.0\BasicForLoopsLab.csproj.CoreCompileInputs.cache
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\obj\Debug\net6.0\BasicForLoopsLab.dll
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\obj\Debug\net6.0\refint\BasicForLoopsLab.dll
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\obj\Debug\net6.0\BasicForLoopsLab.pdb
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\obj\Debug\net6.0\BasicForLoopsLab.genruntimeconfig.cache
+C:\Users\GustavoR-CA\Documents\grandcircus\basicforloopslab\BasicForLoopsLab\BasicForLoopsLab\obj\Debug\net6.0\ref\BasicForLoopsLab.dll
