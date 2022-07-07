@@ -1,5 +1,6 @@
 ﻿//Prompt the user to enter a number.  Use a for-loop to calculate the sum of all the numbers from 1 to the number entered.
-while (true)
+bool runAgain = true;
+while (runAgain)
 {
     int j;
     int sum = 0;
@@ -11,7 +12,8 @@ while (true)
         
     }
     Console.WriteLine(sum);
-    while (true)
+    bool restart = true;
+    while (restart)
     {
         Console.WriteLine("Would you like to continue? (y/n)?");
         string restartValue = Console.ReadLine().ToLower();
